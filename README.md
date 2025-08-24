@@ -12,6 +12,8 @@
 
 4. describe the classification of design pattern depending on purpose and scope - 5M
 
+--- 
+
 ### **Singleton Design pattern**
 Singleton Design Pattern 
 Type: Creational design pattern
@@ -26,6 +28,7 @@ Refer(handwrittern notes): 1.Singleton_pattern > Main > Singleton_pattern.java
         2. Singleton_pattern > Main > Singleton_pattern1.java
         3. Singleton_pattern > earlymain.java & earlysingleton.java
 
+---
 
 ### **Prototype Design pattern**
 Prototype Design Pattern 
@@ -45,7 +48,7 @@ Advantages:
 Refer: 1.prototype_pattern 
         2. prototype_ex (extra example solved)
 
-
+---
 
 try for extension for singleton pattern (Task)
 
