@@ -7,16 +7,16 @@ It doesn’t give you exact code,
 but it gives you a template or guideline on how to structure your solution.
 
 📌 Key points about design patterns:
-Not code, but solutions – They are proven approaches to recurring problems.
-Reusability – You don’t need to reinvent the wheel every time.
-Communication tool – Developers can use names like “Singleton” or “Observer” and instantly understand the structure/idea.
-Maintainability – They make systems easier to extend and modify without breaking existing code.
+- Not code, but solutions – They are proven approaches to recurring problems.
+- Reusability – You don’t need to reinvent the wheel every time.
+- Communication tool – Developers can use names like “Singleton” or “Observer” and instantly understand the structure/idea.
+- Maintainability – They make systems easier to extend and modify without breaking existing code.
 
 🏠 Real-life analogy:
-Imagine building a house.
-You don’t invent a new way to build doors every time.
-You follow a standard design pattern for doors: hinges, frame, handle.
-This saves time, ensures quality, and makes it easy for others to understand.
+- Imagine building a house.
+- You don’t invent a new way to build doors every time.
+- You follow a standard design pattern for doors: hinges, frame, handle.
+- This saves time, ensures quality, and makes it easy for others to understand.
 
 In software, design patterns work the same way—they’re standard solutions you can apply to recurring problems.
 
