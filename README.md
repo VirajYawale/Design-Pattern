@@ -12,7 +12,7 @@
 
 4. describe the classification of design pattern depending on purpose and scope - 5M
 
-### Singleton Design pattern
+### **Singleton Design pattern**
 Singleton Design Pattern 
 Type: Creational design pattern
 Idea: Ensure that a class has only one instance in the whole application, and provide a global point of access to it.
@@ -27,7 +27,7 @@ Refer(handwrittern notes): 1.Singleton_pattern > Main > Singleton_pattern.java
         3. Singleton_pattern > earlymain.java & earlysingleton.java
 
 
-### Prototype Design pattern
+### **Prototype Design pattern**
 Prototype Design Pattern 
 Type: Creational design pattern
 Idea: Instead of creating new objects from scratch (using new), create them by cloning an existing object (prototype).
